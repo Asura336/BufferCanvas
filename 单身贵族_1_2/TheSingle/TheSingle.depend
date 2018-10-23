@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1524716910 source:e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\src\bufferhud.cpp
+	"BufferHUD.h"
+
+1525490004 e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\include\bufferhud.h
+	<windows.h>
+	"Mono.h"
+
+1525676928 e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\include\mono.h
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	<Rect.h>
+
+1525676928 e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\include\rect.h
+
+1525677848 source:e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\src\mono.cpp
+	"Mono.h"
+
+1525332386 source:e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\src\rect.cpp
+	"Rect.h"
+
+1525746477 source:e:\trunk201804\students\wenkaixiang\c_and_cpp\singles\单身贵族\thesingle\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<memory>
+	"BufferHUD.h"
+
+1526803807 source:e:\c_project\活动\singles\单身贵族_1_1\thesingle\src\mono.cpp
+	"Mono.h"
+
+1525177392 source:e:\c_project\活动\singles\单身贵族_1_1\thesingle\src\rect.cpp
+	"Rect.h"
+
+1526803925 e:\c_project\活动\singles\单身贵族_1_1\thesingle\include\mono.h
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	<Rect.h>
+
+1525177382 e:\c_project\活动\singles\单身贵族_1_1\thesingle\include\rect.h
+
+1526802374 source:e:\c_project\活动\singles\单身贵族_1_1\thesingle\src\buffercanvas.cpp
+	"BufferCanvas.h"
+
+1526802333 e:\c_project\活动\singles\单身贵族_1_1\thesingle\include\buffercanvas.h
+	<windows.h>
+	"Mono.h"
+
+1526803458 source:e:\c_project\活动\singles\单身贵族_1_1\thesingle\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<memory>
+	"BufferCanvas.h"
+
+1526802374 source:e:\c_project\活动\singles\单身贵族_1_2\thesingle\src\buffercanvas.cpp
+	"BufferCanvas.h"
+
+1526805109 source:e:\c_project\活动\singles\单身贵族_1_2\thesingle\src\mono.cpp
+	"Mono.h"
+
+1525177392 source:e:\c_project\活动\singles\单身贵族_1_2\thesingle\src\rect.cpp
+	"Rect.h"
+
+1526802333 e:\c_project\活动\singles\单身贵族_1_2\thesingle\include\buffercanvas.h
+	<windows.h>
+	"Mono.h"
+
+1526803925 e:\c_project\活动\singles\单身贵族_1_2\thesingle\include\mono.h
+	<cstdio>
+	<cstdlib>
+	<string.h>
+	<Rect.h>
+
+1525177382 e:\c_project\活动\singles\单身贵族_1_2\thesingle\include\rect.h
+
+1526805519 source:e:\c_project\活动\singles\单身贵族_1_2\thesingle\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<memory>
+	"BufferCanvas.h"
+
+1526805748 source:e:\c_project\活动\bufferhud头文件\buffercanvas及样例小游戏\单身贵族_1_2\thesingle\main.cpp
+	<iostream>
+	<conio.h>
+	<ctime>
+	<memory>
+	"BufferCanvas.h"
+
+1526802374 source:e:\c_project\活动\bufferhud头文件\buffercanvas及样例小游戏\单身贵族_1_2\thesingle\src\buffercanvas.cpp
+	"BufferCanvas.h"
+
+1526805109 source:e:\c_project\活动\bufferhud头文件\buffercanvas及样例小游戏\单身贵族_1_2\thesingle\src\mono.cpp
+	"Mono.h"
+
+1525177392 source:e:\c_project\活动\bufferhud头文件\buffercanvas及样例小游戏\单身贵族_1_2\thesingle\src\rect.cpp
+	"Rect.h"
+
